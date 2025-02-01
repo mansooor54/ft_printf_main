@@ -1,9 +1,12 @@
 # ft_printf_main
 
+# link good project:
 https://github.com/Surfi89/ft_printf.git
 
 
-Step-by-Step Guide to Writing ft_printf (Custom printf Implementation in C)
+-----------------------------------------------------------------
+
+Step-by-Step Guide to Writing ft_printf (Custom printf Implementation in C):
 
 ft_printf is a custom implementation of the standard printf function, commonly used in C programming. It allows formatted output using format specifiers like %d, %s, %c, etc.
 
